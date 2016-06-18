@@ -1,0 +1,32 @@
+{
+  "name": "kobo-bitcore-lib",
+  "main": "./kobo-bitcore-lib.min.js",
+  "version": "0.1.0",
+  "homepage": "http://bitcore.io",
+  "authors": [
+    "BitPay, Inc."
+  ],
+  "description": "A pure, powerful core for your kobocoin project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "kobocoin",
+    "kobo",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
